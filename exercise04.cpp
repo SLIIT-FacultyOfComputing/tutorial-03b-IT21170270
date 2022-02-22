@@ -2,7 +2,7 @@
 using namespace std;
 
 void print(int len, int wth);
-void input(int len, int wth);
+void input(int &len, int &wth);
 
 int main() {
    int length = 10;
